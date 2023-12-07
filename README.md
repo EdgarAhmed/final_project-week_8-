@@ -2,6 +2,8 @@
 
 # Predictive Model for Overuse Injuries in Professional Football through Machine Learning
 
+### Learning through failure.
+
 ## Overview
 This project represents the final undertaking of the Ironhack data analysis bootcamp, focusing on the development of a predictive model for overuse injuries in professional football using machine learning.
 
@@ -43,11 +45,11 @@ The envisioned model development hinged on obtaining accurate data, which was hi
 
 ## Technologies Used
 
-<img src="pics/Python-logo-notext.svg.png" alt="GitHub Logo" width="30" height="30">  ### Python: Language used for the project.
+<img src="pics/Python-logo-notext.svg.png" alt="GitHub Logo" width="30" height="30">   Python: Language used for the project.
 
-<img src="pics/Visual_Studio_Code_1.35_icon.svg.png" alt="GitHub Logo" width="40" height="40">  ### Visual Studio Code: Code editor tool used.
+<img src="pics/Visual_Studio_Code_1.35_icon.svg.png" alt="GitHub Logo" width="40" height="40">   Visual Studio Code: Code editor tool used.
 
-<img src="pics/MongoDB_Logo.svg.png" alt="GitHub Logo" width="65" height="40">  ### MongoDB: Data base used to storage the information obtained from the API.
+<img src="pics/MongoDB_Logo.svg.png" alt="GitHub Logo" width="65" height="40">   MongoDB: Data base used to storage the information obtained from the API.
 
 
 
