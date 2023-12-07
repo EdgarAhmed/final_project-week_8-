@@ -43,11 +43,7 @@ The envisioned model development hinged on obtaining accurate data, which was hi
 
 ## Technologies Used
 
-<img src="pics/Python-logo-notext.svg.png" alt="GitHub Logo" width="100" height="100">
-
-<img src="pics/Visual_Studio_Code_1.35_icon.svg.png" alt="GitHub Logo" width="100" height="100">
-
-<img src="pics/MongoDB_Logo.svg.png" alt="GitHub Logo" width="100" height="100">
+<img src="pics/Python-logo-notext.svg.png" alt="GitHub Logo" width="50" height="50"> <img src="pics/Visual_Studio_Code_1.35_icon.svg.png" alt="GitHub Logo" width="50" height="50"> <img src="pics/MongoDB_Logo.svg.png" alt="GitHub Logo" width="75" height="50">
 
 
 
