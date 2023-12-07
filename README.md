@@ -26,9 +26,7 @@ Data cleaning and transformation were carried out using Visual Studio Code, leve
 
 Tableau Public was used for data visualization, and the project presentation was crafted using Canva.
 
-![llamada_api](https://github.com/EdgarAhmed/final_project-week_8-/assets/145709215/d7a314aa-c32e-4d5e-b510-73fed1a71ec8)
-
-![transformacion_datos](https://github.com/EdgarAhmed/final_project-week_8-/assets/145709215/dd11af15-60a0-44f9-ad48-bd8b9cea2630)
+![Llamada a la API](https://github.com/EdgarAhmed/final_project-week_8-/assets/145709215/d7a314aa-c32e-4d5e-b510-73fed1a71ec8)  ![Transformacion de Datos](https://github.com/EdgarAhmed/final_project-week_8-/assets/145709215/dd11af15-60a0-44f9-ad48-bd8b9cea2630)
 
 
 
