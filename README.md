@@ -15,7 +15,7 @@ Overuse Injuries: Occurring without physical contact, these injuries are linked 
 ## Motivation
 Two primary motivations drove this project:
 
-The estimated cost of injuries to a professional football team, averaging around £45 million ([source](https://bmjopensem.bmj.com/content/6/1/e000675).
+The estimated cost of injuries to a professional football team, averaging around £45 million ([source])(https://bmjopensem.bmj.com/content/6/1/e000675).
 
 Bridging the realms of sports, health, and massive data analysis.
 
@@ -28,11 +28,8 @@ Tableau Public was used for data visualization, and the project presentation was
 
 ![Llamada a la API](https://github.com/EdgarAhmed/final_project-week_8-/assets/145709215/d7a314aa-c32e-4d5e-b510-73fed1a71ec8) 
 
-[^1]:LLamada a la API.
 
 ![Transformacion de Datos](https://github.com/EdgarAhmed/final_project-week_8-/assets/145709215/dd11af15-60a0-44f9-ad48-bd8b9cea2630)
-
-
 
 ## Challenges Faced, Lessons Learned, and Future Work
 
