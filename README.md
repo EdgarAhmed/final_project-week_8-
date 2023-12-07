@@ -15,7 +15,7 @@ Overuse Injuries: Occurring without physical contact, these injuries are linked 
 ## Motivation
 Two primary motivations drove this project:
 
-The estimated cost of injuries to a professional football team, averaging around £45 million ([source])(https://bmjopensem.bmj.com/content/6/1/e000675).
+The estimated cost of injuries to a professional football team, averaging around £45 million [source](https://bmjopensem.bmj.com/content/6/1/e000675).
 
 Bridging the realms of sports, health, and massive data analysis.
 
