@@ -15,15 +15,24 @@ Overuse Injuries: Occurring without physical contact, these injuries are linked 
 ## Motivation
 Two primary motivations drove this project:
 
-The estimated cost of injuries to a professional football team, averaging around £45 million (source).
+The estimated cost of injuries to a professional football team, averaging around £45 million ([source](https://bmjopensem.bmj.com/content/6/1/e000675)
+).
 Bridging the realms of sports, health, and massive data analysis.
-Tools Used
-The project involved data extraction through an API, with data loaded into MongoDB after the API call. Data cleaning and transformation were carried out using Visual Studio Code, leveraging libraries such as "pandas," "datetime," and "numpy." Tableau Public was employed for data visualization, and the project presentation was crafted using Canva.
+
+## Tools Used
+The project involved data extraction through an API, with data loaded into MongoDB after the API call. 
+
+Data cleaning and transformation were carried out using Visual Studio Code, leveraging libraries such as "pandas," "datetime," and "numpy".
+
+Tableau Public was used for data visualization, and the project presentation was crafted using Canva.
 
 ## Challenges Faced, Lessons Learned, and Future Work
+
 Unfortunately, due to time constraints, the machine learning process could not be completed. Issues arose from inaccurate information in the API data, discovered when cross-referenced with the official website of one of the clubs.
 
-As a valuable lesson, relying on original sources is crucial, with third-party APIs being a secondary option. Future work aims to incorporate web scraping tools like "Selenium" to extract reliable data from official websites.
+As a valuable lesson, relying on original sources is crucial, with third-party APIs being a secondary option. 
+
+Future work aims to incorporate web scraping tools like "Selenium" to extract reliable data from official websites.
 
 The envisioned model development hinged on obtaining accurate data, which was hindered in this instance.
 
