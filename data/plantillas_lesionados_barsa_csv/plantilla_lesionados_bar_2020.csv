@@ -1,0 +1,55 @@
+id,name,firstname,age,birth_date,nationality,height,weight,injured,league,team,season,games_appearances,games_lineups,games_minutes,games_position,total_minutes_y,reason,tiempo_lesion
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,La Liga,Barcelona,2020,18,18,1485,Defender,2032,,
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,Copa del Rey,Barcelona,2020,2,2,202,Defender,2032,,
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,UEFA Champions League,Barcelona,2020,3,3,236,Defender,2032,,
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,Club Friendlies,Barcelona,2020,2,2,109,Defender,2032,,
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2020,0,0,0,Defender,0,Knee Injury,6 days
+142,Rafinha,Rafael,28,1992-02-12 00:00:00.000000,Brazil,174 cm,71 kg,False,La Liga,Barcelona,2020,0,0,0,Midfielder,0,,
+142,Rafinha,Rafael,28,1992-02-12 00:00:00.000000,Brazil,174 cm,71 kg,False,UEFA Champions League,Barcelona,2020,0,0,0,Midfielder,0,,
+142,Rafinha,Rafael,28,1992-02-12 00:00:00.000000,Brazil,174 cm,71 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,
+144,Sergio Busquets,Sergio,32,1988-07-16 00:00:00.000000,Spain,189 cm,73 kg,False,La Liga,Barcelona,2020,36,32,2529,Midfielder,3443,,
+144,Sergio Busquets,Sergio,32,1988-07-16 00:00:00.000000,Spain,189 cm,73 kg,False,Copa del Rey,Barcelona,2020,6,5,470,Midfielder,3443,,
+144,Sergio Busquets,Sergio,32,1988-07-16 00:00:00.000000,Spain,189 cm,73 kg,False,UEFA Champions League,Barcelona,2020,6,4,335,Midfielder,3443,,
+144,Sergio Busquets,Sergio,32,1988-07-16 00:00:00.000000,Spain,189 cm,73 kg,False,Club Friendlies,Barcelona,2020,2,2,109,Midfielder,3443,,
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,La Liga,Barcelona,2020,12,8,657,Midfielder,899,Knee Injury,42 days
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,Copa del Rey,Barcelona,2020,0,0,0,Midfielder,899,Knee Injury,42 days
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,UEFA Champions League,Barcelona,2020,2,2,135,Midfielder,899,Knee Injury,42 days
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,Club Friendlies,Barcelona,2020,2,1,107,Midfielder,899,Knee Injury,42 days
+151,A. Vidal,Arturo Erasmo,33,1987-05-22 00:00:00.000000,Chile,180 cm,75 kg,False,La Liga,Barcelona,2020,0,0,0,Midfielder,0,,
+151,A. Vidal,Arturo Erasmo,33,1987-05-22 00:00:00.000000,Chile,180 cm,75 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,
+153,O. Dembélé,,-2,2023-12-05 13:02:53.408556,,,,True,La Liga,Barcelona,2020,30,19,1776,Attacker,2565,Injury,0 days
+153,O. Dembélé,,-2,2023-12-05 13:02:53.408556,,,,True,Copa del Rey,Barcelona,2020,6,2,335,Attacker,2565,Injury,0 days
+153,O. Dembélé,,-2,2023-12-05 13:02:53.408556,,,,True,UEFA Champions League,Barcelona,2020,6,4,381,Attacker,2565,Injury,0 days
+153,O. Dembélé,,-2,2023-12-05 13:02:53.408556,,,,True,Club Friendlies,Barcelona,2020,2,1,73,Attacker,2565,Injury,0 days
+154,L. Messi,Lionel Andrés,33,1987-06-24 00:00:00.000000,Argentina,170 cm,72 kg,False,La Liga,Barcelona,2020,35,33,3022,Attacker,4181,,
+154,L. Messi,Lionel Andrés,33,1987-06-24 00:00:00.000000,Argentina,170 cm,72 kg,False,Copa del Rey,Barcelona,2020,5,5,510,Attacker,4181,,
+154,L. Messi,Lionel Andrés,33,1987-06-24 00:00:00.000000,Argentina,170 cm,72 kg,False,UEFA Champions League,Barcelona,2020,6,6,540,Attacker,4181,,
+154,L. Messi,Lionel Andrés,33,1987-06-24 00:00:00.000000,Argentina,170 cm,72 kg,False,Club Friendlies,Barcelona,2020,2,2,109,Attacker,4181,,
+157,L. Suárez,Luis Alberto,33,1987-01-24 00:00:00.000000,Uruguay,182 cm,86 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Attacker,0,,
+872,M. Pjanić,Miralem,30,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,True,La Liga,Barcelona,2020,19,6,620,Midfielder,1235,Injury,0 days
+872,M. Pjanić,Miralem,30,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,True,Copa del Rey,Barcelona,2020,1,1,120,Midfielder,1235,Injury,0 days
+872,M. Pjanić,Miralem,30,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,True,UEFA Champions League,Barcelona,2020,8,6,495,Midfielder,1235,Injury,0 days
+872,M. Pjanić,Miralem,30,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,True,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,1235,Injury,0 days
+2737,M. Braithwaite,Martin,29,1991-06-05 00:00:00.000000,Denmark,180 cm,77 kg,True,La Liga,Barcelona,2020,29,11,1162,Attacker,1679,Ankle Injury,10 days
+2737,M. Braithwaite,Martin,29,1991-06-05 00:00:00.000000,Denmark,180 cm,77 kg,True,Copa del Rey,Barcelona,2020,5,1,216,Attacker,1679,Ankle Injury,10 days
+2737,M. Braithwaite,Martin,29,1991-06-05 00:00:00.000000,Denmark,180 cm,77 kg,True,UEFA Champions League,Barcelona,2020,6,2,231,Attacker,1679,Ankle Injury,10 days
+2737,M. Braithwaite,Martin,29,1991-06-05 00:00:00.000000,Denmark,180 cm,77 kg,True,Club Friendlies,Barcelona,2020,2,0,70,Attacker,1679,Ankle Injury,10 days
+9925,Matheus Fernandes,Matheus,22,1998-06-30 00:00:00.000000,Brazil,183 cm,69 kg,False,La Liga,Barcelona,2020,0,0,0,Midfielder,17,,
+9925,Matheus Fernandes,Matheus,22,1998-06-30 00:00:00.000000,Brazil,183 cm,69 kg,False,Copa del Rey,Barcelona,2020,0,0,0,Midfielder,17,,
+9925,Matheus Fernandes,Matheus,22,1998-06-30 00:00:00.000000,Brazil,183 cm,69 kg,False,UEFA Champions League,Barcelona,2020,1,0,17,Midfielder,17,,
+9925,Matheus Fernandes,Matheus,22,1998-06-30 00:00:00.000000,Brazil,183 cm,69 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,17,,
+38124,L. Reis,Ludovit,20,2000-06-01 00:00:00.000000,Netherlands,178 cm,78 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,
+46725,R. Manaj,Rey,23,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Attacker,0,,
+46725,R. Manaj,Rey,23,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Attacker,0,,
+104941,Monchu,Ramón,21,1999-09-13 00:00:00.000000,Spain,173 cm,68 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,
+135775,Ansu Fati,,-2,2023-12-05 13:02:53.408556,,,,True,La Liga,Barcelona,2020,7,6,437,Attacker,597,Knee Injury,42 days
+135775,Ansu Fati,,-2,2023-12-05 13:02:53.408556,,,,True,Copa del Rey,Barcelona,2020,0,0,0,Attacker,597,Knee Injury,42 days
+135775,Ansu Fati,,-2,2023-12-05 13:02:53.408556,,,,True,UEFA Champions League,Barcelona,2020,3,2,160,Attacker,597,Knee Injury,42 days
+135775,Ansu Fati,,-2,2023-12-05 13:02:53.408556,,,,True,Club Friendlies,Barcelona,2020,0,0,0,Attacker,597,Knee Injury,42 days
+161929,K. de La Fuente,Konrad,19,2001-07-16 00:00:00.000000,USA,170 cm,63 kg,False,La Liga,Barcelona,2020,0,0,0,Attacker,107,,
+161929,K. de La Fuente,Konrad,19,2001-07-16 00:00:00.000000,USA,170 cm,63 kg,False,Copa del Rey,Barcelona,2020,1,0,19,Attacker,107,,
+161929,K. de La Fuente,Konrad,19,2001-07-16 00:00:00.000000,USA,170 cm,63 kg,False,UEFA Champions League,Barcelona,2020,2,0,17,Attacker,107,,
+161929,K. de La Fuente,Konrad,19,2001-07-16 00:00:00.000000,USA,170 cm,63 kg,False,Club Friendlies,Barcelona,2020,2,0,71,Attacker,107,,
+162474,Jandro Orellana,Alejandro,20,2000-08-07 00:00:00.000000,Spain,177 cm,63 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,
+163436,K. Saverio,Javier Enrique,21,1999-06-19 00:00:00.000000,Ecuador,178 cm,69 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,
+207921,Gustavo Maia,Gustavo,19,2001-01-22 00:00:00.000000,Brazil,168 cm,61 kg,False,Club Friendlies,Barcelona,2020,0,0,0,Midfielder,0,,

@@ -1,0 +1,49 @@
+id,name,firstname,age,birth_date,nationality,height,weight,injured,league,team,season,games_appearances,games_lineups,games_minutes,games_position
+31,J. Giménez,,28,,,,,False,La Liga,Atletico Madrid,2021,24,24,2047,Defender
+31,J. Giménez,,28,,,,,False,Copa del Rey,Atletico Madrid,2021,1,1,46,Defender
+31,J. Giménez,,28,,,,,False,UEFA Champions League,Atletico Madrid,2021,7,6,584,Defender
+31,J. Giménez,,28,,,,,False,Friendlies Clubs,Atletico Madrid,2021,2,2,109,Defender
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,La Liga,Atletico Madrid,2021,21,10,908,Defender
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,Copa del Rey,Atletico Madrid,2021,2,1,134,Defender
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,UEFA Champions League,Atletico Madrid,2021,5,3,304,Defender
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,Club Friendlies,Atletico Madrid,2021,3,2,155,Defender
+583,João Félix,,24,,,,,False,La Liga,Atletico Madrid,2021,24,13,1263,Attacker
+583,João Félix,,24,,,,,False,Copa del Rey,Atletico Madrid,2021,2,1,123,Attacker
+583,João Félix,,24,,,,,False,UEFA Champions League,Atletico Madrid,2021,8,7,574,Attacker
+583,João Félix,,24,,,,,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Attacker
+932,D. Wass,,34,,,,,False,La Liga,Atletico Madrid,2021,1,0,44,Midfielder
+932,D. Wass,,34,,,,,False,UEFA Champions League,Atletico Madrid,2021,0,0,0,Midfielder
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,La Liga,Atletico Madrid,2021,0,0,0,Attacker
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Attacker
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Attacker
+119218,Joan Rojas,Joan,23,2000-01-14,Spain,185 cm,,False,La Liga,Atletico Madrid,2021,0,0,0,Defender
+119218,Joan Rojas,Joan,23,2000-01-14,Spain,185 cm,,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Defender
+122760,Josep Calavera,Josep,24,1999-10-02,Spain,181 cm,71 kg,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Midfielder
+162545,Manu Lama,Manuel,22,2001-02-12,Spain,192 cm,82 kg,False,La Liga,Atletico Madrid,2021,0,0,0,Defender
+162545,Manu Lama,Manuel,22,2001-02-12,Spain,192 cm,82 kg,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Defender
+162546,Óscar Castro,Óscar,22,2001-06-20,Spain,177 cm,73 kg,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Midfielder
+162603,Carlos Rojas,Carlos Humberto,21,2002-04-18,Spain,,,False,Friendlies Clubs,Atletico Madrid,2021,1,0,19,Attacker
+162891,J. Sanabria,Juan Manuel,23,2000-03-29,Uruguay,172 cm,70 kg,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Midfielder
+163212,Christian Gómez,Christian,23,2000-05-18,Spain,187 cm,,False,La Liga,Atletico Madrid,2021,0,0,0,Goalkeeper
+163212,Christian Gómez,Christian,23,2000-05-18,Spain,187 cm,,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Goalkeeper
+163212,Christian Gómez,Christian,23,2000-05-18,Spain,187 cm,,False,UEFA Champions League,Atletico Madrid,2021,0,0,0,Goalkeeper
+182492,Álvaro García,Álvaro,23,2000-06-01,Spain,184 cm,77 kg,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Defender
+185714,Fran González,Francisco Manuel,25,1998-08-13,Spain,190 cm,,False,La Liga,Atletico Madrid,2021,0,0,0,Defender
+185714,Fran González,Francisco Manuel,25,1998-08-13,Spain,190 cm,,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Defender
+185714,Fran González,Francisco Manuel,25,1998-08-13,Spain,190 cm,,False,UEFA Champions League,Atletico Madrid,2021,0,0,0,Defender
+185714,Fran González,Francisco Manuel,25,1998-08-13,Spain,190 cm,,False,Friendlies Clubs,Atletico Madrid,2021,3,2,195,Defender
+208045,Sergio Camus,Sergio,26,1997-04-19,Spain,176 cm,73 kg,False,La Liga,Atletico Madrid,2021,0,0,0,Defender
+208045,Sergio Camus,Sergio,26,1997-04-19,Spain,176 cm,73 kg,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Defender
+208045,Sergio Camus,Sergio,26,1997-04-19,Spain,176 cm,73 kg,False,UEFA Champions League,Atletico Madrid,2021,0,0,0,Defender
+208045,Sergio Camus,Sergio,26,1997-04-19,Spain,176 cm,73 kg,False,Friendlies Clubs,Atletico Madrid,2021,4,1,208,Defender
+287177,Adrián Corral,Adrián,20,2003-01-05,Spain,183 cm,76 kg,False,Friendlies Clubs,Atletico Madrid,2021,0,0,0,Defender
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,La Liga,Atletico Madrid,2021,0,0,0,Midfielder
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Midfielder
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,UEFA Champions League,Atletico Madrid,2021,0,0,0,Midfielder
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,Friendlies Clubs,Atletico Madrid,2021,4,2,164,Midfielder
+336592,Ibrahima Cámara,Ibrahima Vaniel,20,2003-01-18,Spain,181 cm,,False,La Liga,Atletico Madrid,2021,0,0,0,Defender
+336592,Ibrahima Cámara,Ibrahima Vaniel,20,2003-01-18,Spain,181 cm,,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Defender
+336592,Ibrahima Cámara,Ibrahima Vaniel,20,2003-01-18,Spain,181 cm,,False,UEFA Champions League,Atletico Madrid,2021,0,0,0,Defender
+336594,Pablo Barrios,Pablo,20,2003-06-15,Spain,181 cm,75 kg,False,La Liga,Atletico Madrid,2021,0,0,0,Midfielder
+336681,Sergio Díez,Sergio,20,2003-07-28,Spain,178 cm,75 kg,False,La Liga,Atletico Madrid,2021,0,0,0,Defender
+336681,Sergio Díez,Sergio,20,2003-07-28,Spain,178 cm,75 kg,False,Copa del Rey,Atletico Madrid,2021,0,0,0,Defender

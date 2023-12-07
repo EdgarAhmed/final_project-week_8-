@@ -1,0 +1,55 @@
+id,name,firstname,age,birth_date,nationality,height,weight,injured,league,team,season,games_appearances,games_lineups,games_minutes,games_position
+31,J. Giménez,,28,,,,,False,La Liga,Atletico Madrid,2020,21,20,1766,Defender
+31,J. Giménez,,28,,,,,False,Copa del Rey,Atletico Madrid,2020,1,1,11,Defender
+31,J. Giménez,,28,,,,,False,UEFA Champions League,Atletico Madrid,2020,4,4,338,Defender
+46,Vitolo,Víctor,34,1989-11-02,Spain,185 cm,80 kg,False,La Liga,Atletico Madrid,2020,10,3,294,Midfielder
+46,Vitolo,Víctor,34,1989-11-02,Spain,185 cm,80 kg,False,UEFA Champions League,Atletico Madrid,2020,3,0,29,Midfielder
+47,Toni Moya,Antonio,25,1998-03-20,Spain,180 cm,78 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Midfielder
+47,Toni Moya,Antonio,25,1998-03-20,Spain,180 cm,78 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Midfielder
+47,Toni Moya,Antonio,25,1998-03-20,Spain,180 cm,78 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Midfielder
+54,Diego Costa,Diego,35,1988-10-07,Spain,188 cm,83 kg,False,La Liga,Atletico Madrid,2020,7,2,207,Attacker
+54,Diego Costa,Diego,35,1988-10-07,Spain,188 cm,83 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Attacker
+54,Diego Costa,Diego,35,1988-10-07,Spain,188 cm,83 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Attacker
+58,Víctor Mollejo,Víctor,22,2001-01-21,Spain,176 cm,63 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Attacker
+58,Víctor Mollejo,Víctor,22,2001-01-21,Spain,176 cm,63 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Attacker
+157,L. Suárez,Luis Alberto,36,1987-01-24,Uruguay,182 cm,86 kg,False,La Liga,Atletico Madrid,2020,32,30,2521,Attacker
+157,L. Suárez,Luis Alberto,36,1987-01-24,Uruguay,182 cm,86 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Attacker
+157,L. Suárez,Luis Alberto,36,1987-01-24,Uruguay,182 cm,86 kg,False,UEFA Champions League,Atletico Madrid,2020,6,6,460,Attacker
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,La Liga,Atletico Madrid,2020,9,6,519,Defender
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,Copa del Rey,Atletico Madrid,2020,1,0,14,Defender
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Defender
+382,H. Herrera,Héctor Miguel,33,1990-04-19,Mexico,185 cm,80 kg,False,La Liga,Atletico Madrid,2020,16,8,680,Midfielder
+382,H. Herrera,Héctor Miguel,33,1990-04-19,Mexico,185 cm,80 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Midfielder
+382,H. Herrera,Héctor Miguel,33,1990-04-19,Mexico,185 cm,80 kg,False,UEFA Champions League,Atletico Madrid,2020,5,3,298,Midfielder
+583,João Félix,,24,,,,,False,La Liga,Atletico Madrid,2020,31,14,1566,Attacker
+583,João Félix,,24,,,,,False,Copa del Rey,Atletico Madrid,2020,1,1,75,Attacker
+583,João Félix,,24,,,,,False,UEFA Champions League,Atletico Madrid,2020,8,8,708,Attacker
+1462,L. Torreira,Lucas Sebastián,27,1996-02-11,Uruguay,166 cm,65 kg,False,La Liga,Atletico Madrid,2020,19,3,505,Midfielder
+1462,L. Torreira,Lucas Sebastián,27,1996-02-11,Uruguay,166 cm,65 kg,False,Copa del Rey,Atletico Madrid,2020,2,2,180,Midfielder
+1462,L. Torreira,Lucas Sebastián,27,1996-02-11,Uruguay,166 cm,65 kg,False,UEFA Champions League,Atletico Madrid,2020,5,0,40,Midfielder
+2923,Y. Carrasco,Yannick,30,1993-09-04,Belgium,181 cm,73 kg,False,La Liga,Atletico Madrid,2020,30,25,2187,Midfielder
+2923,Y. Carrasco,Yannick,30,1993-09-04,Belgium,181 cm,73 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Midfielder
+2923,Y. Carrasco,Yannick,30,1993-09-04,Belgium,181 cm,73 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Midfielder
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Attacker
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,Copa del Rey,Atletico Madrid,2020,2,0,45,Attacker
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Attacker
+122760,Josep Calavera,Josep,24,1999-10-02,Spain,181 cm,71 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Midfielder
+122760,Josep Calavera,Josep,24,1999-10-02,Spain,181 cm,71 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Midfielder
+131551,Miguel San Román,Miguel,26,1997-07-14,Spain,189 cm,79 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Goalkeeper
+131551,Miguel San Román,Miguel,26,1997-07-14,Spain,189 cm,79 kg,False,Copa del Rey,Atletico Madrid,2020,1,1,90,Goalkeeper
+131551,Miguel San Román,Miguel,26,1997-07-14,Spain,189 cm,79 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Goalkeeper
+161963,Germán Valera,Germán,21,2002-03-16,Spain,170 cm,68 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Midfielder
+161963,Germán Valera,Germán,21,2002-03-16,Spain,170 cm,68 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Midfielder
+161963,Germán Valera,Germán,21,2002-03-16,Spain,170 cm,68 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Midfielder
+161965,Mario Soriano,Mario,21,2002-04-22,Spain,163 cm,,False,La Liga,Atletico Madrid,2020,0,0,0,Midfielder
+161965,Mario Soriano,Mario,21,2002-04-22,Spain,163 cm,,False,Copa del Rey,Atletico Madrid,2020,1,0,15,Midfielder
+162546,Óscar Castro,Óscar,22,2001-06-20,Spain,177 cm,73 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Midfielder
+162546,Óscar Castro,Óscar,22,2001-06-20,Spain,177 cm,73 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Midfielder
+162891,J. Sanabria,Juan Manuel,23,2000-03-29,Uruguay,172 cm,70 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Midfielder
+162891,J. Sanabria,Juan Manuel,23,2000-03-29,Uruguay,172 cm,70 kg,False,Copa del Rey,Atletico Madrid,2020,1,0,6,Midfielder
+162891,J. Sanabria,Juan Manuel,23,2000-03-29,Uruguay,172 cm,70 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Midfielder
+182492,Álvaro García,Álvaro,23,2000-06-01,Spain,184 cm,77 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Defender
+182492,Álvaro García,Álvaro,23,2000-06-01,Spain,184 cm,77 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Defender
+182492,Álvaro García,Álvaro,23,2000-06-01,Spain,184 cm,77 kg,False,UEFA Champions League,Atletico Madrid,2020,0,0,0,Defender
+287177,Adrián Corral,Adrián,20,2003-01-05,Spain,183 cm,76 kg,False,La Liga,Atletico Madrid,2020,0,0,0,Defender
+287177,Adrián Corral,Adrián,20,2003-01-05,Spain,183 cm,76 kg,False,Copa del Rey,Atletico Madrid,2020,0,0,0,Defender

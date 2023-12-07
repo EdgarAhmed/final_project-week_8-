@@ -1,0 +1,524 @@
+id,name,firstname,age,birth_date,nationality,height,weight,injured,league,team,season,games_appearances,games_lineups,games_minutes,games_position,total_minutes,reason,tiempo_lesion_2,tiempo_lesion,numero_lesiones_jugador
+132,Guillem Jaime,Guillem,21,1999-01-06 00:00:00.000000,Spain,177 cm,70 kg,False,La Liga,Barcelona,2021,0,0,0,Defender,30,,,,
+132,Guillem Jaime,Guillem,21,1999-01-06 00:00:00.000000,Spain,177 cm,70 kg,False,Copa del Rey,Barcelona,2021,0,0,0,Defender,30,,,,
+132,Guillem Jaime,Guillem,21,1999-01-06 00:00:00.000000,Spain,177 cm,70 kg,False,Club Friendlies,Barcelona,2021,1,0,30,Defender,30,,,,
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,La Liga,Barcelona,2021,27,25,2096,Defender,2849,Calf Injury,8.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Copa del Rey,Barcelona,2021,2,1,164,Defender,2849,Calf Injury,8.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Europa League,Barcelona,2021,5,4,328,Defender,2849,Calf Injury,8.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,UEFA Champions League,Barcelona,2021,5,5,393,Defender,2849,Calf Injury,8.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Groin Injury,4.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Muscle Injury,40.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Leg Injury,12.0,266 days,4.0
+136,Piqué,Gerard,33,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,True,Club Friendlies,Barcelona,2021,3,3,196,Defender,2849,Calf Injury,8.0,266 days,4.0
+138,J. Todibo,,-2,2023-12-06 14:07:33.297368,,,,False,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,,,,
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,La Liga,Barcelona,2021,1,1,90,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+139,S. Umtiti,Samuel Yves,27,1993-11-14 00:00:00.000000,France,182 cm,75 kg,True,Club Friendlies,Barcelona,2021,3,2,110,Defender,200,Injury,23.0,246 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+141,M. Wagué,Moussa,22,1998-10-04 00:00:00.000000,Senegal,177 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Defender,0,Tendon Injury,26.0,176 days,1.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,La Liga,Barcelona,2021,12,5,499,Midfielder,666,Illness,7.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,La Liga,Barcelona,2021,12,5,499,Midfielder,666,Lacking Match Fitness,12.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Midfielder,666,Illness,7.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Midfielder,666,Lacking Match Fitness,12.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Midfielder,666,Illness,7.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Midfielder,666,Lacking Match Fitness,12.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,UEFA Champions League,Barcelona,2021,4,0,107,Midfielder,666,Illness,7.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,UEFA Champions League,Barcelona,2021,4,0,107,Midfielder,666,Lacking Match Fitness,12.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,Club Friendlies,Barcelona,2021,1,1,60,Midfielder,666,Illness,7.0,134 days,2.0
+147,Philippe Coutinho,Philippe,28,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,True,Club Friendlies,Barcelona,2021,1,1,60,Midfielder,666,Lacking Match Fitness,12.0,134 days,2.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Illness,7.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Muscle Injury,40.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,21,15,1412,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Illness,7.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Muscle Injury,40.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,44,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Illness,7.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Muscle Injury,40.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,122,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Illness,7.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Muscle Injury,40.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,6,1,247,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Illness,7.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Muscle Injury,40.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+153,O. Dembélé,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,1578,Knee Injury,23.0,155 days,3.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,La Liga,Barcelona,2021,21,6,641,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,La Liga,Barcelona,2021,21,6,641,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,UEFA Champions League,Barcelona,2021,3,3,180,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,UEFA Champions League,Barcelona,2021,3,3,180,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,UEFA Europa League,Barcelona,2021,4,0,50,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,UEFA Europa League,Barcelona,2021,4,0,50,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,821,Illness,7.0,4 days,1.0
+246,L. de Jong,Luuk,30,1990-08-27 00:00:00.000000,Netherlands,188 cm,86 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,821,Illness,7.0,4 days,1.0
+256,Dani Alves,Daniel,37,1983-05-06 00:00:00.000000,Brazil,172 cm,70 kg,True,UEFA Champions League,Barcelona,2021,0,0,0,Defender,90,Illness,7.0,102 days,1.0
+256,Dani Alves,Daniel,37,1983-05-06 00:00:00.000000,Brazil,172 cm,70 kg,True,Club Friendlies,Barcelona,2021,1,1,90,Defender,90,Illness,7.0,102 days,1.0
+256,Dani Alves,Daniel,37,1983-05-06 00:00:00.000000,Brazil,172 cm,70 kg,True,La Liga,Barcelona,2021,0,0,0,Defender,90,Illness,7.0,102 days,1.0
+256,Dani Alves,Daniel,37,1983-05-06 00:00:00.000000,Brazil,172 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Defender,90,Illness,7.0,102 days,1.0
+256,Dani Alves,Daniel,37,1983-05-06 00:00:00.000000,Brazil,172 cm,70 kg,True,UEFA Europa League,Barcelona,2021,0,0,0,Defender,90,Illness,7.0,102 days,1.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,La Liga,Barcelona,2021,4,2,151,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Copa del Rey,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,UEFA Champions League,Barcelona,2021,1,0,15,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Heart Problems,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+642,S. Agüero,Sergio Leonel,32,1988-06-02 00:00:00.000000,Argentina,173 cm,70 kg,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,166,Calf Injury,8.0,113 days,2.0
+872,M. Pjanić,Miralem,30,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,False,La Liga,Barcelona,2021,0,0,0,Midfielder,88,,,,
+872,M. Pjanić,Miralem,30,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,False,Club Friendlies,Barcelona,2021,3,1,88,Midfielder,88,,,,
+33085,H. Abe,Hiroki,21,1999-01-28 00:00:00.000000,Japan,173 cm,64 kg,False,Club Friendlies,Barcelona,2021,1,0,44,Attacker,88,,,,
+33085,H. Abe,Hiroki,21,1999-01-28 00:00:00.000000,Japan,173 cm,64 kg,False,Club Friendlies,Barcelona,2021,1,0,44,Attacker,88,,,,
+46725,R. Manaj,Rey,23,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,Club Friendlies,Barcelona,2021,4,1,104,Attacker,208,,,,
+46725,R. Manaj,Rey,23,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,La Liga,Barcelona,2021,0,0,0,Attacker,208,,,,
+46725,R. Manaj,Rey,23,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,Club Friendlies,Barcelona,2021,4,1,104,Attacker,208,,,,
+129967,Lucas de Vega,Lucas,20,2000-01-16 00:00:00.000000,Brazil,178 cm,74 kg,False,La Liga,Barcelona,2021,0,0,0,Midfielder,0,,,,
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,La Liga,Barcelona,2021,10,3,332,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Copa del Rey,Barcelona,2021,1,0,35,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Europa League,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,UEFA Champions League,Barcelona,2021,3,1,153,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Thigh Injury,32.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Muscle Injury,40.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Lacking Match Fitness,12.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+135775,Ansu Fati,,-2,2023-12-06 14:07:33.297368,,,,True,Club Friendlies,Barcelona,2021,0,0,0,Attacker,520,Knee Injury,23.0,246 days,4.0
+161927,Nils Mortimer,Nils,19,2001-06-11 00:00:00.000000,Spain,179 cm,73 kg,False,Club Friendlies,Barcelona,2021,3,1,115,Attacker,115,,,,
+162109,Jordi Escobar,Jordi,18,2002-02-10 00:00:00.000000,Spain,188 cm,78 kg,False,Club Friendlies,Barcelona,2021,1,1,46,Attacker,46,,,,
+162473,Arnau Tenas,Arnau,19,2001-05-30 00:00:00.000000,Spain,185 cm,85 kg,False,La Liga,Barcelona,2021,0,0,0,Goalkeeper,0,,,,
+162473,Arnau Tenas,Arnau,19,2001-05-30 00:00:00.000000,Spain,185 cm,85 kg,False,Copa del Rey,Barcelona,2021,0,0,0,Goalkeeper,0,,,,
+162473,Arnau Tenas,Arnau,19,2001-05-30 00:00:00.000000,Spain,185 cm,85 kg,False,UEFA Europa League,Barcelona,2021,0,0,0,Goalkeeper,0,,,,
+162473,Arnau Tenas,Arnau,19,2001-05-30 00:00:00.000000,Spain,185 cm,85 kg,False,Club Friendlies,Barcelona,2021,0,0,0,Goalkeeper,0,,,,
+162710,Peque Polo,Carlos Javier,20,2000-10-02 00:00:00.000000,Spain,,,False,Club Friendlies,Barcelona,2021,1,1,46,Attacker,46,,,,
+163466,L. Carević,Lazar,21,1999-03-16 00:00:00.000000,Montenegro,193 cm,85 kg,False,La Liga,Barcelona,2021,0,0,0,Goalkeeper,0,,,,
+163466,L. Carević,Lazar,21,1999-03-16 00:00:00.000000,Montenegro,193 cm,85 kg,False,Copa del Rey,Barcelona,2021,0,0,0,Goalkeeper,0,,,,
+163466,L. Carević,Lazar,21,1999-03-16 00:00:00.000000,Montenegro,193 cm,85 kg,False,Club Friendlies,Barcelona,2021,0,0,0,Goalkeeper,0,,,,

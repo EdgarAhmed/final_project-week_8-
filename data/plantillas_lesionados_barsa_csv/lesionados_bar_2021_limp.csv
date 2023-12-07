@@ -1,0 +1,293 @@
+id,name,type,reason,team,fechas_lesion,league,tiempo_lesion,count_appeared
+296667,Gavi,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,67 days,7
+181421,A. Ezzalzouli,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,0 days,7
+162712,O. Mingueza,Missing Fixture,Illness,Barcelona,2022-05-01,La Liga,253 days,7
+162712,O. Mingueza,Missing Fixture,Muscle Injury,Barcelona,2021-08-21,La Liga,253 days,40
+161933,Nico,Missing Fixture,Leg Injury,Barcelona,2022-05-22,La Liga,70 days,12
+161933,Nico,Missing Fixture,Leg Injury,Barcelona,2022-05-15,La Liga,70 days,12
+161933,Nico,Missing Fixture,Leg Injury,Barcelona,2022-05-10,La Liga,70 days,12
+161933,Nico,Missing Fixture,Leg Injury,Barcelona,2022-05-07,La Liga,70 days,12
+161933,Nico,Missing Fixture,Leg Injury,Barcelona,2022-05-01,La Liga,70 days,12
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-03-20,La Liga,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-03-17,UEFA Europa League,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-03-13,La Liga,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-03-10,UEFA Europa League,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-03-06,La Liga,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-02-27,La Liga,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-02-24,UEFA Europa League,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-02-20,La Liga,178 days,10
+161928,A. Balde,Missing Fixture,Ankle Injury,Barcelona,2022-02-17,UEFA Europa League,178 days,10
+161928,A. Balde,Questionable,Ankle Injury,Barcelona,2022-02-06,La Liga,178 days,10
+161928,A. Balde,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,178 days,7
+161928,A. Balde,Missing Fixture,Back Injury,Barcelona,2021-09-29,UEFA Champions League,178 days,6
+161928,A. Balde,Missing Fixture,Back Injury,Barcelona,2021-09-26,La Liga,178 days,6
+161928,A. Balde,Missing Fixture,Back Injury,Barcelona,2021-09-23,La Liga,178 days,6
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-24,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-21,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-18,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-14,UEFA Europa League,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-10,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-07,UEFA Europa League,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-04-03,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-03-20,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-03-17,UEFA Europa League,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-03-13,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-03-10,UEFA Europa League,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-03-06,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-02-27,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-02-24,UEFA Europa League,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-02-20,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-02-17,UEFA Europa League,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-02-13,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-02-06,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Thigh Injury,Barcelona,2022-01-23,La Liga,246 days,32
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2022-01-08,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2022-01-02,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-12-21,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-12-18,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-12-12,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-12-08,UEFA Champions League,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-12-04,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-11-27,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-11-23,UEFA Champions League,246 days,40
+135775,A. Fati,Missing Fixture,Muscle Injury,Barcelona,2021-11-20,La Liga,246 days,40
+135775,A. Fati,Missing Fixture,Knee Injury,Barcelona,2021-10-30,La Liga,246 days,23
+135775,A. Fati,Missing Fixture,Knee Injury,Barcelona,2021-10-27,La Liga,246 days,23
+135775,A. Fati,Missing Fixture,Lacking Match Fitness,Barcelona,2021-09-23,La Liga,246 days,12
+135775,A. Fati,Questionable,Lacking Match Fitness,Barcelona,2021-09-20,La Liga,246 days,12
+135775,A. Fati,Missing Fixture,Lacking Match Fitness,Barcelona,2021-09-14,UEFA Champions League,246 days,12
+135775,A. Fati,Missing Fixture,Knee Injury,Barcelona,2021-08-29,La Liga,246 days,23
+135775,A. Fati,Missing Fixture,Knee Injury,Barcelona,2021-08-21,La Liga,246 days,23
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-05-22,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-05-15,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-05-10,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-05-07,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-05-01,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-04-24,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-04-21,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Thigh Injury,Barcelona,2022-04-18,La Liga,244 days,32
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2022-01-08,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2022-01-02,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-12-21,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-12-18,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-12-12,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-12-08,UEFA Champions League,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-12-04,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-11-27,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-11-23,UEFA Champions League,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-11-20,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-11-06,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-11-02,UEFA Champions League,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-10-30,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-10-27,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-10-24,La Liga,244 days,23
+133609,Pedri,Missing Fixture,Knee Injury,Barcelona,2021-10-20,UEFA Champions League,244 days,23
+133609,Pedri,Missing Fixture,Muscle Injury,Barcelona,2021-09-29,UEFA Champions League,244 days,40
+133609,Pedri,Missing Fixture,Muscle Injury,Barcelona,2021-09-26,La Liga,244 days,40
+133609,Pedri,Missing Fixture,Muscle Injury,Barcelona,2021-09-23,La Liga,244 days,40
+133609,Pedri,Missing Fixture,Muscle Injury,Barcelona,2021-09-20,La Liga,244 days,40
+131294,Y. Demir,Missing Fixture,Stomach Disorder,Barcelona,2022-01-08,La Liga,18 days,5
+131294,Y. Demir,Missing Fixture,Stomach Disorder,Barcelona,2022-01-02,La Liga,18 days,5
+131294,Y. Demir,Missing Fixture,Stomach Disorder,Barcelona,2021-12-21,La Liga,18 days,5
+101814,R. Araujo,Missing Fixture,Injury,Barcelona,2022-05-15,La Liga,207 days,23
+101814,R. Araujo,Missing Fixture,Leg Injury,Barcelona,2022-02-17,UEFA Europa League,207 days,12
+101814,R. Araujo,Missing Fixture,Hand Injury,Barcelona,2022-01-08,La Liga,207 days,3
+101814,R. Araujo,Missing Fixture,Thigh Injury,Barcelona,2021-10-30,La Liga,207 days,32
+101814,R. Araujo,Missing Fixture,Thigh Injury,Barcelona,2021-10-27,La Liga,207 days,32
+101814,R. Araujo,Missing Fixture,Thigh Injury,Barcelona,2021-10-24,La Liga,207 days,32
+101814,R. Araujo,Missing Fixture,Thigh Injury,Barcelona,2021-10-20,UEFA Champions League,207 days,32
+38735,S. Dest,Missing Fixture,Muscle Injury,Barcelona,2022-05-22,La Liga,197 days,40
+38735,S. Dest,Missing Fixture,Muscle Injury,Barcelona,2022-05-15,La Liga,197 days,40
+38735,S. Dest,Missing Fixture,Muscle Injury,Barcelona,2022-05-10,La Liga,197 days,40
+38735,S. Dest,Missing Fixture,Muscle Injury,Barcelona,2022-05-07,La Liga,197 days,40
+38735,S. Dest,Missing Fixture,Muscle Injury,Barcelona,2022-05-01,La Liga,197 days,40
+38735,S. Dest,Missing Fixture,Leg Injury,Barcelona,2022-04-10,La Liga,197 days,12
+38735,S. Dest,Missing Fixture,Leg Injury,Barcelona,2022-04-07,UEFA Europa League,197 days,12
+38735,S. Dest,Missing Fixture,Leg Injury,Barcelona,2022-04-03,La Liga,197 days,12
+38735,S. Dest,Missing Fixture,Leg Injury,Barcelona,2022-03-20,La Liga,197 days,12
+38735,S. Dest,Missing Fixture,Back Injury,Barcelona,2022-01-02,La Liga,197 days,6
+38735,S. Dest,Missing Fixture,Back Injury,Barcelona,2021-12-21,La Liga,197 days,6
+38735,S. Dest,Missing Fixture,Back Injury,Barcelona,2021-12-18,La Liga,197 days,6
+38735,S. Dest,Missing Fixture,Injury,Barcelona,2021-11-20,La Liga,197 days,23
+38735,S. Dest,Missing Fixture,Injury,Barcelona,2021-11-06,La Liga,197 days,23
+2737,M. Braithwaite,Missing Fixture,Illness,Barcelona,2022-05-01,La Liga,229 days,7
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2022-01-08,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2022-01-02,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-12-21,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-12-18,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-12-12,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-12-08,UEFA Champions League,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-12-04,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-11-27,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-11-23,UEFA Champions League,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-11-20,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-11-06,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-11-02,UEFA Champions League,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-10-30,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-10-27,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-10-24,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-10-20,UEFA Champions League,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-09-29,UEFA Champions League,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-09-26,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-09-23,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-09-20,La Liga,229 days,23
+2737,M. Braithwaite,Missing Fixture,Knee Injury,Barcelona,2021-09-14,UEFA Champions League,229 days,23
+931,F. Torres,Missing Fixture,Illness,Barcelona,2022-01-08,La Liga,0 days,7
+912,Neto,Missing Fixture,Illness,Barcelona,2021-11-06,La Liga,0 days,7
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-04-10,La Liga,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-04-07,UEFA Europa League,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-02-24,UEFA Europa League,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-02-20,La Liga,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-02-17,UEFA Europa League,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-02-13,La Liga,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-02-06,La Liga,119 days,40
+667,M. Depay,Missing Fixture,Muscle Injury,Barcelona,2022-01-23,La Liga,119 days,40
+667,M. Depay,Missing Fixture,Thigh Injury,Barcelona,2022-01-02,La Liga,119 days,32
+667,M. Depay,Missing Fixture,Thigh Injury,Barcelona,2021-12-21,La Liga,119 days,32
+667,M. Depay,Missing Fixture,Thigh Injury,Barcelona,2021-12-18,La Liga,119 days,32
+667,M. Depay,Missing Fixture,Thigh Injury,Barcelona,2021-12-12,La Liga,119 days,32
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-12-12,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-12-08,UEFA Champions League,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-12-04,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-11-27,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-11-23,UEFA Champions League,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-11-20,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-11-06,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Heart Problems,Barcelona,2021-11-02,UEFA Champions League,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-09-29,UEFA Champions League,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-09-26,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-09-23,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-09-20,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-09-14,UEFA Champions League,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-08-29,La Liga,113 days,8
+642,S. Aguero,Missing Fixture,Calf Injury,Barcelona,2021-08-21,La Liga,113 days,8
+619,E. Garcia,Missing Fixture,Injury,Barcelona,2022-05-22,La Liga,266 days,23
+619,E. Garcia,Missing Fixture,Thigh Injury,Barcelona,2022-02-06,La Liga,266 days,32
+619,E. Garcia,Missing Fixture,Thigh Injury,Barcelona,2022-01-23,La Liga,266 days,32
+538,F. de Jong,Missing Fixture,Calf Injury,Barcelona,2022-01-08,La Liga,231 days,8
+538,F. de Jong,Missing Fixture,Thigh Injury,Barcelona,2021-10-30,La Liga,231 days,32
+538,F. de Jong,Missing Fixture,Thigh Injury,Barcelona,2021-10-27,La Liga,231 days,32
+256,D. Alves,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,102 days,7
+246,L. de Jong,Missing Fixture,Illness,Barcelona,2022-04-07,UEFA Europa League,4 days,7
+246,L. de Jong,Missing Fixture,Illness,Barcelona,2022-04-03,La Liga,4 days,7
+153,O. Dembele,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,155 days,7
+153,O. Dembele,Missing Fixture,Muscle Injury,Barcelona,2021-11-06,La Liga,155 days,40
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-10-30,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-10-27,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-10-24,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-10-20,UEFA Champions League,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-09-29,UEFA Champions League,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-09-26,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-09-23,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-09-20,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-09-14,UEFA Champions League,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-08-29,La Liga,155 days,23
+153,O. Dembele,Missing Fixture,Knee Injury,Barcelona,2021-08-21,La Liga,155 days,23
+147,Coutinho,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,134 days,7
+147,Coutinho,Missing Fixture,Lacking Match Fitness,Barcelona,2021-08-21,La Liga,134 days,12
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2022-02-13,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2022-02-06,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2022-01-23,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2022-01-08,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2022-01-02,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-12-21,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-12-18,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-12-12,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-12-08,UEFA Champions League,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-12-04,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-11-27,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-11-23,UEFA Champions League,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-11-20,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-11-06,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-11-02,UEFA Champions League,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-10-30,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-10-27,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-10-24,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-10-20,UEFA Champions League,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-09-29,UEFA Champions League,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-09-26,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-09-23,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-09-20,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-09-14,UEFA Champions League,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-08-29,La Liga,176 days,26
+141,M. Wague,Missing Fixture,Tendon Injury,Barcelona,2021-08-21,La Liga,176 days,26
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-24,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-21,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-18,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-14,UEFA Europa League,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-10,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-07,UEFA Europa League,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-04-03,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-03-20,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-03-17,UEFA Europa League,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-03-13,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-03-10,UEFA Europa League,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-03-06,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-02-27,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-02-24,UEFA Europa League,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-02-20,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-02-17,UEFA Europa League,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-02-13,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-02-06,La Liga,246 days,23
+139,S. Umtiti,Missing Fixture,Injury,Barcelona,2022-01-23,La Liga,246 days,23
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-05-22,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-05-15,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-05-10,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-05-07,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-05-01,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-04-24,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Lacking Match Fitness,Barcelona,2022-04-21,La Liga,238 days,12
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-04-18,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-04-14,UEFA Europa League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-04-10,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-04-07,UEFA Europa League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-04-03,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-03-20,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-03-17,UEFA Europa League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-03-13,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-03-10,UEFA Europa League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-03-06,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-02-27,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-02-24,UEFA Europa League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-02-20,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-02-17,UEFA Europa League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-02-13,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-02-06,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-01-23,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-01-08,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2022-01-02,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-12-21,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-12-18,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-12-12,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-12-08,UEFA Champions League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-12-04,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-11-27,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-11-23,UEFA Champions League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-11-06,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-11-02,UEFA Champions League,238 days,40
+137,S. Roberto,Missing Fixture,Muscle Injury,Barcelona,2021-10-30,La Liga,238 days,40
+137,S. Roberto,Missing Fixture,Stomach Disorder,Barcelona,2021-09-29,UEFA Champions League,238 days,5
+137,S. Roberto,Missing Fixture,Stomach Disorder,Barcelona,2021-09-26,La Liga,238 days,5
+136,G. Pique,Missing Fixture,Groin Injury,Barcelona,2022-05-22,La Liga,266 days,4
+136,G. Pique,Missing Fixture,Groin Injury,Barcelona,2022-05-15,La Liga,266 days,4
+136,G. Pique,Missing Fixture,Groin Injury,Barcelona,2022-05-10,La Liga,266 days,4
+136,G. Pique,Missing Fixture,Groin Injury,Barcelona,2022-05-07,La Liga,266 days,4
+136,G. Pique,Missing Fixture,Muscle Injury,Barcelona,2022-04-18,La Liga,266 days,40
+136,G. Pique,Questionable,Muscle Injury,Barcelona,2022-04-14,UEFA Europa League,266 days,40
+136,G. Pique,Missing Fixture,Muscle Injury,Barcelona,2022-04-10,La Liga,266 days,40
+136,G. Pique,Missing Fixture,Leg Injury,Barcelona,2021-11-06,La Liga,266 days,12
+136,G. Pique,Missing Fixture,Leg Injury,Barcelona,2021-11-02,UEFA Champions League,266 days,12
+136,G. Pique,Missing Fixture,Calf Injury,Barcelona,2021-08-29,La Liga,266 days,8
+133,C. Lenglet,Missing Fixture,Lacking Match Fitness,Barcelona,2022-02-24,UEFA Europa League,18 days,12
+133,C. Lenglet,Missing Fixture,Muscle Injury,Barcelona,2022-02-20,La Liga,18 days,40
+133,C. Lenglet,Missing Fixture,Muscle Injury,Barcelona,2022-02-17,UEFA Europa League,18 days,40
+133,C. Lenglet,Missing Fixture,Muscle Injury,Barcelona,2022-02-13,La Liga,18 days,40
+133,C. Lenglet,Missing Fixture,Muscle Injury,Barcelona,2022-02-06,La Liga,18 days,40
+128,J. Alba,Missing Fixture,Illness,Barcelona,2022-01-02,La Liga,237 days,7
+128,J. Alba,Missing Fixture,Muscle Injury,Barcelona,2021-12-12,La Liga,237 days,40
+128,J. Alba,Missing Fixture,Muscle Injury,Barcelona,2021-09-29,UEFA Champions League,237 days,40
+128,J. Alba,Missing Fixture,Muscle Injury,Barcelona,2021-09-26,La Liga,237 days,40
+128,J. Alba,Missing Fixture,Muscle Injury,Barcelona,2021-09-23,La Liga,237 days,40
+128,J. Alba,Questionable,Muscle Injury,Barcelona,2021-09-20,La Liga,237 days,40
+127,M. ter Stegen,Missing Fixture,Illness,Barcelona,2022-05-07,La Liga,259 days,7
+127,M. ter Stegen,Missing Fixture,Knee Injury,Barcelona,2021-08-21,La Liga,259 days,23

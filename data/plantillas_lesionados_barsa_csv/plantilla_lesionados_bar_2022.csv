@@ -1,0 +1,116 @@
+id,name,firstname,age,birth_date,nationality,height,weight,injured,league,team,season,games_appearances,games_lineups,games_minutes,games_position,total_minutes,reason,tiempo_lesion_2,tiempo_lesion,numero_lesiones_jugador
+132,Guillem Jaime,Guillem,22,1999-01-06 00:00:00.000000,Spain,177 cm,70 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Defender,0,,,,
+136,Piqué,Gerard,34,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,La Liga,Barcelona,2022,6.0,4.0,382.0,Defender,795,,,,
+136,Piqué,Gerard,34,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,UEFA Champions League,Barcelona,2022,4.0,2.0,256.0,Defender,795,,,,
+136,Piqué,Gerard,34,1987-02-02 00:00:00.000000,Spain,194 cm,85 kg,False,Club Friendlies,Barcelona,2022,4.0,1.0,157.0,Defender,795,,,,
+147,Philippe Coutinho,Philippe,29,1992-06-12 00:00:00.000000,Brazil,172 cm,68 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Midfielder,0,,,,
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,25.0,16.0,1415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,2.0,2.0,189.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,5.0,415.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+153,O. Dembélé,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,4.0,2.0,169.0,Attacker,2188,Muscle Injury,33.0,84 days,1.0
+256,Dani Alves,Daniel,38,1983-05-06 00:00:00.000000,Brazil,172 cm,70 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Defender,0,,,,
+872,M. Pjanić,Miralem,31,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,False,La Liga,Barcelona,2022,0.0,0.0,0.0,Midfielder,135,,,,
+872,M. Pjanić,Miralem,31,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,False,UEFA Champions League,Barcelona,2022,0.0,0.0,0.0,Midfielder,135,,,,
+872,M. Pjanić,Miralem,31,1990-04-02 00:00:00.000000,Bosnia and Herzegovina,178 cm,72 kg,False,Club Friendlies,Barcelona,2022,4.0,0.0,135.0,Midfielder,135,,,,
+2737,M. Braithwaite,Martin,30,1991-06-05 00:00:00.000000,Denmark,180 cm,77 kg,False,La Liga,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+2737,M. Braithwaite,Martin,30,1991-06-05 00:00:00.000000,Denmark,180 cm,77 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+46725,R. Manaj,Rey,24,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+46725,R. Manaj,Rey,24,1997-02-24 00:00:00.000000,Albania,182 cm,76 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+135775,Ansu Fati,,-1,2023-12-06 16:56:12.129662,,,,True,La Liga,Barcelona,2022,36.0,12.0,1380.0,Attacker,2046,Knee Injury,3.0,0 days,1.0
+135775,Ansu Fati,,-1,2023-12-06 16:56:12.129662,,,,True,Copa del Rey,Barcelona,2022,5.0,0.0,134.0,Attacker,2046,Knee Injury,3.0,0 days,1.0
+135775,Ansu Fati,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Europa League,Barcelona,2022,2.0,0.0,38.0,Attacker,2046,Knee Injury,3.0,0 days,1.0
+135775,Ansu Fati,,-1,2023-12-06 16:56:12.129662,,,,True,UEFA Champions League,Barcelona,2022,6.0,2.0,239.0,Attacker,2046,Knee Injury,3.0,0 days,1.0
+135775,Ansu Fati,,-1,2023-12-06 16:56:12.129662,,,,True,Club Friendlies,Barcelona,2022,6.0,2.0,255.0,Attacker,2046,Knee Injury,3.0,0 days,1.0
+162474,Jandro Orellana,Alejandro,21,2000-08-07 00:00:00.000000,Spain,177 cm,63 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Midfielder,0,,,,
+163466,L. Carević,Lazar,22,1999-03-16 00:00:00.000000,Montenegro,193 cm,85 kg,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Goalkeeper,0,,,,
+182165,Antonio Aranda,Antonio José,21,2000-10-07 00:00:00.000000,Spain,175 cm,62 kg,False,Club Friendlies,Barcelona,2022,1.0,0.0,44.0,Midfielder,44,,,,
+294797,Ángel Alarcón,Ángel,17,2004-05-15 00:00:00.000000,Spain,"
+    ","
+    ",False,La Liga,Barcelona,2022,3.0,0.0,22.0,Attacker,32,,,,
+294797,Ángel Alarcón,Ángel,17,2004-05-15 00:00:00.000000,Spain,"
+    ","
+    ",False,Copa del Rey,Barcelona,2022,1.0,0.0,10.0,Attacker,32,,,,
+294797,Ángel Alarcón,Ángel,17,2004-05-15 00:00:00.000000,Spain,"
+    ","
+    ",False,UEFA Europa League,Barcelona,2022,0.0,0.0,0.0,Attacker,32,,,,
+319841,Fabio Blanco,Fabio,17,2004-02-18 00:00:00.000000,Spain,179 cm,71 kg,False,Club Friendlies,Barcelona,2022,1.0,0.0,17.0,Attacker,17,,,,
+336555,Estanis Pedrola,Estanislau,18,2003-08-24 00:00:00.000000,Spain,185 cm,,False,La Liga,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+336555,Estanis Pedrola,Estanislau,18,2003-08-24 00:00:00.000000,Spain,185 cm,,False,Copa del Rey,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+336555,Estanis Pedrola,Estanislau,18,2003-08-24 00:00:00.000000,Spain,185 cm,,False,Club Friendlies,Barcelona,2022,0.0,0.0,0.0,Attacker,0,,,,
+336560,Álex Valle,Álex,17,2004-04-25 00:00:00.000000,Spain,,,False,UEFA Champions League,Barcelona,2022,0.0,0.0,0.0,Defender,90,,,,
+336560,Álex Valle,Álex,17,2004-04-25 00:00:00.000000,Spain,,,False,Club Friendlies,Barcelona,2022,1.0,1.0,90.0,Defender,90,,,,
+371912,Dani Rodríguez,Daniel,16,2005-08-09 00:00:00.000000,Spain,,,False,La Liga,Barcelona,2022,0.0,0.0,0.0,Midfielder,0,,,,
+386828,Lamine Yamal,Lamine,14,2007-07-13 00:00:00.000000,Spain,180 cm,,False,La Liga,Barcelona,2022,1.0,0.0,7.0,Attacker,7,,,,
+386859,Héctor Fort,Héctor,15,2006-08-02 00:00:00.000000,Spain,,,False,La Liga,Barcelona,2022,,,,Defender,0,,,,
+396630,Pau Prim,Pau,15,2006-02-22 00:00:00.000000,Spain,179 cm,,False,La Liga,Barcelona,2022,0.0,0.0,0.0,Midfielder,0,,,,

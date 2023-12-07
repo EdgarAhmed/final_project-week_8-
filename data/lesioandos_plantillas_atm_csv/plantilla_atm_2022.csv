@@ -1,0 +1,42 @@
+id,name,firstname,age,birth_date,nationality,height,weight,injured,league,team,season,games_appearances,games_lineups,games_minutes,games_position
+29,J. Oblak,,30,,,,,False,La Liga,Atletico Madrid,2022,28.0,28.0,2493.0,Goalkeeper
+29,J. Oblak,,30,,,,,False,Copa del Rey,Atletico Madrid,2022,5.0,5.0,480.0,Goalkeeper
+29,J. Oblak,,30,,,,,False,UEFA Champions League,Atletico Madrid,2022,5.0,5.0,450.0,Goalkeeper
+29,J. Oblak,,30,,,,,False,Friendlies Clubs,Atletico Madrid,2022,4.0,4.0,272.0,Goalkeeper
+56,A. Griezmann,,32,,,,,False,La Liga,Atletico Madrid,2022,38.0,31.0,2861.0,Attacker
+56,A. Griezmann,,32,,,,,False,Copa del Rey,Atletico Madrid,2022,4.0,4.0,360.0,Attacker
+56,A. Griezmann,,32,,,,,False,UEFA Champions League,Atletico Madrid,2022,6.0,4.0,406.0,Attacker
+56,A. Griezmann,,32,,,,,False,Friendlies Clubs,Atletico Madrid,2022,4.0,1.0,188.0,Attacker
+199,Šime Vrsaljko,Šime,30,1992-01-10,Croatia,181 cm,76 kg,False,Club Friendlies,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+926,G. Kondogbia,,30,,,,,False,La Liga,Atletico Madrid,2022,20.0,10.0,999.0,Midfielder
+926,G. Kondogbia,,30,,,,,False,Copa del Rey,Atletico Madrid,2022,4.0,1.0,165.0,Midfielder
+926,G. Kondogbia,,30,,,,,False,UEFA Champions League,Atletico Madrid,2022,3.0,2.0,224.0,Midfielder
+926,G. Kondogbia,,30,,,,,False,Friendlies Clubs,Atletico Madrid,2022,5.0,3.0,222.0,Midfielder
+932,D. Wass,,34,,,,,False,Friendlies Clubs,Atletico Madrid,2022,4.0,2.0,161.0,Midfielder
+41595,I. Šaponjić,Ivan,26,1997-08-02,Serbia,190 cm,86 kg,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Attacker
+119218,Joan Rojas,Joan,23,2000-01-14,Spain,185 cm,,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+162545,Manu Lama,Manuel,22,2001-02-12,Spain,192 cm,82 kg,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+163212,Christian Gómez,Christian,23,2000-05-18,Spain,187 cm,,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Goalkeeper
+185714,Fran González,Francisco Manuel,25,1998-08-13,Spain,190 cm,,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+208045,Sergio Camus,Sergio,26,1997-04-19,Spain,176 cm,73 kg,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+208670,Diego Bri,Diego Vicente,21,2002-09-12,Spain,177 cm,67 kg,False,La Liga,Atletico Madrid,2022,0.0,0.0,0.0,Attacker
+208670,Diego Bri,Diego Vicente,21,2002-09-12,Spain,177 cm,67 kg,False,Copa del Rey,Atletico Madrid,2022,0.0,0.0,0.0,Attacker
+208670,Diego Bri,Diego Vicente,21,2002-09-12,Spain,177 cm,67 kg,False,Friendlies Clubs,Atletico Madrid,2022,1.0,0.0,14.0,Attacker
+287177,Adrián Corral,Adrián,20,2003-01-05,Spain,183 cm,76 kg,False,La Liga,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+287177,Adrián Corral,Adrián,20,2003-01-05,Spain,183 cm,76 kg,False,Copa del Rey,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+287177,Adrián Corral,Adrián,20,2003-01-05,Spain,183 cm,76 kg,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+289814,J. Perea,Juan David,21,2002-05-19,Colombia,177 cm,,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Attacker
+304476,Ethyan González,Ethyan Jesús,21,2002-06-06,Spain,185 cm,,False,Friendlies Clubs,Atletico Madrid,2022,1.0,1.0,46.0,Attacker
+308282,Santi Miguélez,Santiago,21,2002-04-05,Spain,,,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Attacker
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,La Liga,Atletico Madrid,2022,0.0,0.0,0.0,Midfielder
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,Copa del Rey,Atletico Madrid,2022,1.0,0.0,21.0,Midfielder
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,UEFA Champions League,Atletico Madrid,2022,0.0,0.0,0.0,Midfielder
+313548,Alberto Moreno,Alberto,21,2002-04-19,Spain,175 cm,69 kg,False,Friendlies Clubs,Atletico Madrid,2022,1.0,0.0,26.0,Midfielder
+336592,Ibrahima Cámara,Ibrahima Vaniel,20,2003-01-18,Spain,181 cm,,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+336681,Sergio Díez,Sergio,20,2003-07-28,Spain,178 cm,75 kg,False,La Liga,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+336681,Sergio Díez,Sergio,20,2003-07-28,Spain,178 cm,75 kg,False,Copa del Rey,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+336681,Sergio Díez,Sergio,20,2003-07-28,Spain,178 cm,75 kg,False,UEFA Champions League,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+336681,Sergio Díez,Sergio,20,2003-07-28,Spain,178 cm,75 kg,False,Friendlies Clubs,Atletico Madrid,2022,4.0,1.0,183.0,Defender
+363331,J. Ginzo,Juan Martín,21,2002-03-05,Argentina,176 cm,78 kg,False,La Liga,Atletico Madrid,2022,,,,Defender
+363331,J. Ginzo,Juan Martín,21,2002-03-05,Argentina,176 cm,78 kg,False,Club Friendlies,Atletico Madrid,2022,0.0,0.0,0.0,Defender
+363331,J. Ginzo,Juan Martín,21,2002-03-05,Argentina,176 cm,78 kg,False,Friendlies Clubs,Atletico Madrid,2022,0.0,0.0,0.0,Defender
